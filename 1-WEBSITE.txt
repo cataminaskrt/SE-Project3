@@ -1,0 +1,3 @@
+A nossa dashboard está disponível no seguinte link:
+https://project-3-se-1.onrender.com
+Aconselhamos vivamente a que a dash seja visualizada no website, pois tivemos um problema de versões do sklearn, onde não dava para visualizar os resultados da última tab por o ficheiro pickle dos nossos melhores resultados ter sido feito numa versão mais antiga do sklearn, a versão 1.3.0. 
